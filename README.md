@@ -1,3 +1,7 @@
+To find main.c file to grade RTOS go to:
+
+Core > Source > Main.c
+
 Getting the code onto Your STM32 Board:
 Download the Project:
 
