@@ -15,11 +15,9 @@ Browse to the folder where you unzipped the files, select the project, and click
 
 Build and Run:
 
-Make sure your STM32 board is plugged in.
+Right click the project name and choose build project.
 
-Right click the project name and choose build project (this makes the executable file).
-
-Click the run button (the green triangle/Play icon) at the top. This uploads the code to your board and starts it.
+Click the run button.
 
 Getting the code onto your esp32:
 
